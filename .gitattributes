@@ -1,5 +1,2 @@
-reports/
-tests_output/
-npm-debug.log.*
 * linguist-vendored
 *.js linguist-vendored=false
